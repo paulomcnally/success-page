@@ -1,0 +1,12 @@
+{
+  "name": "success-page",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/paulomcnally/success-page.git",
+  "author": "Paulo McNally <paulomcnally@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^3.0.2"
+  }
+}
